@@ -13,6 +13,11 @@ mongoose.connect('mongodb://localhost/restapis',{
     useNewUrlParser: true
 });
 
+//1. crear el servidor
+const app = express();
+//42. hablitar carpeta publica
+app.use(express.static('uploads'));
+
 //50. definir un dominiopara recibir peticiones
 const whitelist = [process.env.FRONTEND_URL];
 const corsOptions = {
@@ -30,8 +35,7 @@ const corsOptions = {
 }
 
 
-//1. crear el servidor
-const app = express();
+
 
 //8. habilitar bodyParser
 app.use(bodyParser.json());
@@ -43,8 +47,6 @@ app.use(bodyParser.urlencoded({extended: true}));
 //51 cambiando cors
 app.use(cors(corsOptions));
 
-//42. hablitar carpeta publica
-app.use(express.static('uploads'));
 
 //3. rutas de la app
 app.use('/', routes());
