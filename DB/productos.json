@@ -1,0 +1,4 @@
+{"_id":{"$oid":"629144793a1aaec09320f4dc"},"nombre":"Camisa Vuejs","precio":35,"imagen":"pDS23CA-K.jpeg","__v":0}
+{"_id":{"$oid":"629148253a1aaec09320f4de"},"nombre":"Camisa Reactjs","precio":35,"imagen":"W0lLcJ44g.jpeg","__v":0}
+{"_id":{"$oid":"6294428c5c63097fdf686c39"},"nombre":"Camisa de HTML","precio":25.99,"imagen":"eY3ulq7if.jpeg","__v":0}
+{"_id":{"$oid":"62945fc5819c8f2f9d0677e7"},"nombre":"Camisa Redux","precio":20,"imagen":"0SwDGGMFF.jpeg","__v":0}

@@ -1,0 +1,5 @@
+{"_id":{"$oid":"629027524ee9319d7d80b72d"},"nombre":"Luis","apellido":"Daniel","empresa":"BUAP","email":"correoeditado.com","telefono":"2221112221","__v":0}
+{"_id":{"$oid":"62902ca0de4b74e68cedebd3"},"nombre":"Noe xd","apellido":"Daniel","empresa":"BUAP","email":"correo@correo.com","telefono":"2222111122","__v":0}
+{"_id":{"$oid":"62902cfcde4b74e68cedebdf"},"nombre":"Gatsby","apellido":"Daniel","empresa":"BUAP","email":"gcorreo@correo.com","telefono":"2222111122","__v":0}
+{"_id":{"$oid":"62902d07de4b74e68cedebe1"},"nombre":"joh","apellido":"Daniel","empresa":"BUAP","email":"jcorreo@correo.com","telefono":"2222111122","__v":0}
+{"_id":{"$oid":"62902d1dde4b74e68cedebe5"},"nombre":"Jorge","apellido":"Daniel","empresa":"BUAP","email":"jocorreo@correo.com","telefono":"2222111122","__v":0}
